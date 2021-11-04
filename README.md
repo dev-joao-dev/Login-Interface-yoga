@@ -1,6 +1,6 @@
 # Yoga Interface
 
-<img src="./assets/image-project-yoga.png" alt="yoga-image">
+<img src="./ASSETS/image-project-yoga.png" alt="yoga-image">
 
 >Projeto Yoga finalizado, com seu layout e seu design completos.
 
@@ -12,7 +12,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="https://github.com/dev-joao-dev" target="_blank">
-        <img src="./assets/imagem para desafio.jpg"width="100px;" alt="Foto do João Vitor"/><br>
+        <img src="./ASSETS/imagem para desafio.jpg"width="100px;" alt="Foto do João Vitor"/><br>
         <sub>
           <b>João Vitor</b>
         </sub>
